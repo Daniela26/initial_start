@@ -1,2 +1,7 @@
 # initial_start
-first repository learning GitHub
+Hi, from me
+============
+It's my first repository, learning GitHub! 
+==================
+i love :coffee:, :tea:, and :cat:.
+============
